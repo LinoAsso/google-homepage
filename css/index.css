@@ -1,0 +1,32 @@
+body {
+box-sizing: border-box;
+font-family: Arial, sans-serif;
+}
+
+header {
+    padding: 5px;
+    margin: 0;
+    border: 2px solid black;
+    height: 48px;
+}
+
+.inline {
+    float: left;
+    display:inline;
+    margin-left: 15px;
+    padding: 5px;
+    font-size: 14px;
+  
+
+}
+.right{
+    float: right;
+    display: inline;
+    margin-left: 15px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+img {
+   margin-left: 50%;
+}
