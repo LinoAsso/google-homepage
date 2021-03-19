@@ -30,6 +30,7 @@ header {
     display: flex;
     justify-content: center;
    margin-bottom: 37px;
+   margin-top: 200px;
 
 }
 
@@ -59,6 +60,19 @@ form {
     color: #dfe1e5;
     margin-top: 3%;
     margin-left: 1%;
-
    
+}
+.button {
+    float: left;
+    border: 5px solid #f8f9fa;
+    margin: 11px 4px;
+    height: 36px;
+    min-width: 54px;
+    border-radius: 4px;
+    font-size: arial, sans-serif;
+  
+}
+#bottom {
+    display: flex;
+    justify-content: center;
 }
